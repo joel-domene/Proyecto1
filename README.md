@@ -98,7 +98,6 @@ Para una descripción detallada de cada etapa y de las decisiones de diseño, co
 ├── resultado_imgs/                      # Imágenes con las detecciones dibujadas
 ├── resultado.txt                        # Detecciones generadas (nombre;x1;y1;x2;y2;tipo;score)
 ├── resultado_jmbuena_road_panels.txt    # Anotaciones / referencia de evaluación
-├── memoria_Practica1.pdf                # Memoria de la práctica
 ├── requirements.txt
 ├── README.md
 ├── ARCHITECTURE.md
