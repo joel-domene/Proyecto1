@@ -98,7 +98,6 @@ Para una descripción detallada de cada etapa y de las decisiones de diseño, co
 ├── resultado_imgs/                      # Imágenes con las detecciones dibujadas
 ├── resultado.txt                        # Detecciones generadas (nombre;x1;y1;x2;y2;tipo;score)
 ├── resultado_jmbuena_road_panels.txt    # Anotaciones / referencia de evaluación
-├── memoria_Practica1.pdf                # Memoria de la práctica
 ├── requirements.txt
 ├── README.md
 ├── ARCHITECTURE.md
@@ -269,16 +268,8 @@ Curvas precisión-recall, comparando el detector propio con la referencia:
 ## Contexto académico
 
 - **Asignatura:** Visión Artificial — Universidad Rey Juan Carlos (URJC).
-- **Curso:** 2025/26 — Práctica 1.
+- **Curso:** 2025/26 — Práctica 1 grupal.
 - **Restricción:** resolución sin aprendizaje automático.
-
------
-
-## Contribuidores
-
-- **Joel Domené Álvaro** — *responsable principal y lead de detección* · [GitHub](https://github.com/joel-domene)
-- **Jorge Bernabé Molinero**
-- **Nicolás Wenceslao Muñoz Ciudad**
 
 -----
 
