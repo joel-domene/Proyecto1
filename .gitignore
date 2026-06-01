@@ -16,6 +16,6 @@ env/
 .idea/
 .vscode/
 
-# Salidas temporales (descomenta si no quieres versionar resultados)
+# Salidas temporales (comentado ya que están añadidos los resultados al proyecto)
 # resultado_imgs/
 # resultado.txt
