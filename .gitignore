@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# IDEs
+.idea/
+.vscode/
+
+# Salidas temporales (descomenta si no quieres versionar resultados)
+# resultado_imgs/
+# resultado.txt
